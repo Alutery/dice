@@ -1,4 +1,4 @@
-# Roll App
+# Dice
 
 In the project directory, you can run:
 
