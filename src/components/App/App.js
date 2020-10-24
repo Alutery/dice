@@ -81,7 +81,7 @@ function App() {
                 </Row>
             </Container>
         </div>
-    );
+    )
 }
 
 export default App
